@@ -101,3 +101,6 @@ Provided by The Echo Nest. [The Echo Nest](https://en.wikipedia.org/wiki/The_Ech
 ## Authors and Acknowledgments
 Michael Salceda  
 Sean Kim
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
